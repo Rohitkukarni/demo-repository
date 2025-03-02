@@ -4,6 +4,7 @@ git rm --cached <file-name> - staging to untrack file
 git restore - restore files
 git commit -m "add" - add files track area
 git status - show status
+git log - show log
 git remote add origin URL - to add remote origin
 git remote set-url URL - add url origin to local 
 git branch - show current branch
