@@ -1,0 +1,1 @@
+print ("this is the simple program")
