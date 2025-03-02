@@ -18,5 +18,5 @@ git checkout -d b-name- delete a branch
 github fork - copy files github to github
 git clone url - copy remote github files to local
 git revert HEAD - revert latest commit
-git reset 
+git reset  - dont know about it
 give some break
