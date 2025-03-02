@@ -9,6 +9,7 @@ git remote set-url URL - add url origin to local
 git branch - show current branch
 git branch b-name - create name branch
 git checkout b-name - change branch
+git switch b-name - also used to change branch
 git branch -M b-name - rename branch
 git checkout -d b-name- delete a branch
 github fork - copy files github to github
